@@ -6,10 +6,11 @@
 
 - Ruby
 - Nokogiri
+- CSV
 
 ## Live Demo
 
-[Live Demo Link](https://repl.it/@muhammedcihadci/Scraper-2#bin/main.rb)
+[Live](https://repl.it/@muhammedcihadci/Scraper-2#bin/main.rb)
 
 
 ## How To Run
